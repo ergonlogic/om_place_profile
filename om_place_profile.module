@@ -1,0 +1,3 @@
+<?php
+
+include_once('om_place_profile.features.inc');
